@@ -1048,6 +1048,7 @@ $ chmod 755 exread.sh
  
 $ ./exread.sh 
 ## OUTPUT
+<img width="516" height="107" alt="image" src="https://github.com/user-attachments/assets/0d2570f5-b94b-4242-83ed-d69bc394d85e" />
 
 
  cat exread1.sh
@@ -1058,12 +1059,13 @@ read -p "Enter your name: " name
 echo "Hello $name, welcome to my program. “
 ``` 
 $ chmod 755 exread1.sh 
+$ ./exread1.sh 
 
 ## OUTPUT
 
+<img width="470" height="77" alt="image" src="https://github.com/user-attachments/assets/81811906-9415-4845-ae10-396524151b6f" />
 
 
-$ ./exread1.sh 
  
 cat funcex.sh
 ```bash
@@ -1082,9 +1084,11 @@ fi
 ```
 ## OUTPUT
  ./funcex.sh 
+<img width="343" height="97" alt="image" src="https://github.com/user-attachments/assets/cea45d26-b942-4f06-a21f-42467926563e" />
 
  
  ./funcex.sh 1 2
+<img width="335" height="95" alt="image" src="https://github.com/user-attachments/assets/a921ec74-7c4e-4096-b0d0-40d060e88f18" />
 
  
 cat argshift.sh
@@ -1099,7 +1103,9 @@ $ chmod 777 argshift.sh
 
 ## OUTPUT
 $ ./argshift.sh 1 2 3
- 
+ <img width="385" height="115" alt="image" src="https://github.com/user-attachments/assets/9203d6ee-cb83-40ea-b65d-bd2fcabca995" />
+
+
  cat argshift1.sh
 ```bash
  #/bin/bash 
@@ -1116,6 +1122,8 @@ done
 $ chmod 777 argshift.sh
 ## OUTPUT
 $ ./argshift.sh 1 2 3
+<img width="353" height="140" alt="image" src="https://github.com/user-attachments/assets/d6570dde-bd82-4b3e-a8bf-fb0a1e53bd94" />
+
  
 cat argshift.sh
 ```bash
@@ -1129,7 +1137,8 @@ set +x
 ```
 ## OUTPUT
  ./argshift.sh 1 2 3
- 
+ <img width="322" height="116" alt="image" src="https://github.com/user-attachments/assets/219f22cd-991a-434e-a889-8e2b4a1b0a35" />
+
  
 cat > nc.awk
 ```bash
@@ -1160,7 +1169,8 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
- 
+ <img width="521" height="347" alt="image" src="https://github.com/user-attachments/assets/855d4fa4-c567-4a7a-8c50-9d08d7664fc5" />
+
 cat > palindrome.sh
 ```bash
 #num=545
@@ -1187,6 +1197,7 @@ else
 fi
 ```
 ## OUTPUT 
+<img width="480" height="430" alt="image" src="https://github.com/user-attachments/assets/e81b3cea-c8f6-46bc-b623-534e39d59407" />
 
 
 # RESULT:
